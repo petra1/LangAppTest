@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">LangAppTest</string>
+    <string name="description">Das ist ein Test, ob TalkBack die korrekte Text-to-speech-Engiene verwendet.</string>
+    <string name="content_desc_nl">Niederländisch</string>
+    <string name="set_language">Sprache einstellen</string>
+    <string name="content_desc_de">Deutsch</string>
+    <string name="content_desc_gb">English</string>
+    <string name="go">Go</string>
+</resources>
